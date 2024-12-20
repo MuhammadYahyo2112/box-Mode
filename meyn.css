@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(90, 133, 158);
+}
+
+h1 {
+    color: #fff;
+    font-size: 26px;
+    background-color: rgb(130, 56, 56);
+    text-align: center;
+    width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+
+}
+
+.qora {
+    background-color: black;
+    width: 600px;
+    margin: 20px auto;
+    padding: 30px;
+    border: red 10px solid;
+}
+
+.kok {
+    background-color: aqua;
+    width: 50%;
+    height: 50%;
+    margin: 20px auto;
+    padding: 20px 100px 20px 100px;
+    font-size: 20px;
+    
+}
